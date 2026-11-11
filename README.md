@@ -1,1 +1,2 @@
 # American-Sign-Language-Detection-and-Recognition
+.
